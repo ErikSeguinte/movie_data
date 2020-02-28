@@ -239,3 +239,5 @@ tags
 .vim
 
 # End of https://www.gitignore.io/api/vim,linux,macos,emacs,python,jupyternotebooks
+
+kaggle.json
